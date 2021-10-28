@@ -1,0 +1,10 @@
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\task6_new\obj\Debug\task6_new.csprojAssemblyReference.cache
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\task6_new\obj\Debug\task6_new.Form1.resources
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\task6_new\obj\Debug\task6_new.Properties.Resources.resources
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\task6_new\obj\Debug\task6_new.csproj.GenerateResource.cache
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\task6_new\obj\Debug\task6_new.csproj.CoreCompileInputs.cache
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\task6_new\bin\Debug\task6_new.exe.config
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\task6_new\bin\Debug\task6_new.exe
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\task6_new\bin\Debug\task6_new.pdb
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\task6_new\obj\Debug\task6_new.exe
+C:\Users\Tema-\Desktop\Универ\4.1\КГ\task6_new\obj\Debug\task6_new.pdb
